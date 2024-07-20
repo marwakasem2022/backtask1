@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "fname": "marwa",
+        "lname": "kasem",
+        "city": "fayoum",
+        "age": "36"
+    },
+    {
+        "id": 2,
+        "fname": "hossam",
+        "lname": "kasem",
+        "city":"fayoum",
+        "age": 22
+    }
+]
